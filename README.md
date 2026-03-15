@@ -1,4 +1,4 @@
-# Data Engineering Technical Test
+# # Automotive Data Warehouse Pipeline
 
 ## Overview
 This project implements a simple data warehouse pipeline for an automotive retail company using Python and SQLite.
